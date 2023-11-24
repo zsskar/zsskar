@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **rashid.11612612@gmail.com**
 
-- ⚡ Fun fact **In love with Java but also loves React JS**
+- ⚡**In love with Java but also loves React JS**⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
