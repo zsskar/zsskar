@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zsskar" alt="zsskar" /></a> </p>
 
-- 🔭 I’m currently working on **React JS Projects**
+- 🔭 I’m currently working on **React JS/Next JS Projects**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS/MonoRepo**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/zsskar?tab=repositories](https://github.com/zsskar?tab=repositories)
 
-- 💬 Ask me about **Java, Java 1.8, Spring Boot**
+- 💬 Ask me about **Java, Java 1.8, Spring Boot, React Js, Prisma, tRPC, MYSQL..........**
 
 - 📫 How to reach me **rashid.11612612@gmail.com**
 
-- ⚡**In love with Java but also loves React JS**⚡
+- ⚡**In love with Java but also loves React JS/Prisma/tRPC/MUI**⚡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
